@@ -14,9 +14,11 @@
             //top level dependencies, "include" will find
             //nested dependencies.
             include: ['jquery',
+                'bootstrap',
                 'app/lib',
                 'app/controller/Base',
-                'app/model/Base'
+                'app/model/Base',
+
             ]
         },
 

@@ -6,8 +6,11 @@
 //except for 'app' ones, which are in a sibling
 //directory.
 requirejs.config({
+//    packages: ['bootstrap'],
     baseUrl: 'js/lib',
     paths: {
         app: '../app'
+
+
     }
 });

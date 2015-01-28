@@ -1,4 +1,8 @@
 
+css/bootstrap.css
+----------------
+css/bootstrap.css
+
 css/main.css
 ----------------
 css/main.css
@@ -7,6 +11,7 @@ js/lib/../common.js
 ----------------
 js/lib/../common.js
 js/lib/jquery.js
+js/lib/bootstrap.js
 js/app/lib.js
 js/app/controller/Base.js
 js/app/model/Base.js
@@ -14,8 +19,6 @@ js/app/model/Base.js
 js/lib/../page1.js
 ----------------
 js/lib/../page1.js
-js/app/controller/c1.js
-js/app/model/m1.js
 js/app/main1.js
 
 js/lib/../page2.js
